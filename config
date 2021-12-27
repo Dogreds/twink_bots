@@ -7,7 +7,7 @@
 	ignorecase = true
 [user]
 	name = bogre
-	email = bogregmail.com
+	email = bogre@gmail.com
 [remote "origin"]
 	url = https://github.com/Dogreds/botsd.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
